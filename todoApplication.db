@@ -1,0 +1,1 @@
+create table Todo (id int,todo char(255),priority char(255),status char(255));
